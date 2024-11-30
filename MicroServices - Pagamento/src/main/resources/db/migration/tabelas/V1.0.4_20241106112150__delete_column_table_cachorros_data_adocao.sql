@@ -1,0 +1,1 @@
+Alter table cachorros drop column data_adocao;
