@@ -1,3 +1,4 @@
 
 MicroServices - Pagamento/src/main/resources/credentials.json
-MicroServices - Pagamento/src/main/resources/certs/
+MicroServices - Pagamento/certs
+*.p12
